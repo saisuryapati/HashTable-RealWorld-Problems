@@ -71,7 +71,7 @@ public class Problem1UsernameChecker {
                 +system.checkAvailability("john_doe"));
 
         System.out.println("checkAvailability(jane_smith) → "
-                +sgit add .ystem.checkAvailability("jane_smith"));
+                +system.checkAvailability("jane_smith"));
 
         System.out.println("suggestAlternatives(john_doe) → "
                 +system.suggestAlternatives("john_doe"));
